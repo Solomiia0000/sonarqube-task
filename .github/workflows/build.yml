@@ -20,5 +20,5 @@ jobs:
           args: >
             -Dsonar.organization=solomiia0000
             -Dsonar.projectKey=Solomiia0000_sonarqube-task
-            -Dsonar.projectName=P21_Solomiia_10.06.2026
+            -Dsonar.projectName=P22_Solomiia_10.06.2026
             
